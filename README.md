@@ -1,2 +1,3 @@
 # SampleCodeDeployApp
-CI/CD pipline with AWS CodeBuild, CodeDeploy and Jenkins
+CI/CD pipline with AWS CodeBuild, CodeDeploy and Jenkins 
+tested
